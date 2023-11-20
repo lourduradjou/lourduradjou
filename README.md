@@ -16,7 +16,7 @@
 ### Let's Connect and Grow Together!
 - 🌱 Always up for new challenges and learning experiences.
 - 🤝 Open to connect with industry professionals, seniors, and fellow learners.
-- ✨ Thank you for visiting my LinkedIn profile! Let's embark on a journey of growth together.
+- ✨ Thank you for visiting my profile! Let's embark on a journey of growth together.
 
 ### Contact Me
 - 📧 Email: your.email@example.com
@@ -26,7 +26,7 @@
 ### Fun Facts
 - 🎮 Apart from coding, I enjoy playing video games.
 - 📚 Avid reader, exploring both fiction and tech literature.
-- 🎨 Love dabbling in some digital art during my free time.
+- 😊Love to walk and chill when it is raining.
 
 ### Quote of the Day
 "Embrace the challenges, for they are the stepping stones to success. 🚀"

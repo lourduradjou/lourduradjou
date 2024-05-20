@@ -10,7 +10,7 @@
 ### Skills
 - 💻 Competitive Coder
 - 🚀 Front-End Developer
-- 🌐 HTML, CSS, JavaScript
+- 🌐 HTML, CSS, JavaScript, Bootstrap
 - ⚛️ Currently learning React.js
 
 ### Let's Connect and Grow Together!
@@ -19,7 +19,7 @@
 - ✨ Thank you for visiting my profile! Let's embark on a journey of growth together.
 
 ### Contact Me
-- 📧 Email:[Lourdu Radjou](rajlourdu15@gmail.com)
+- 📧 Email: [rajlourdu15@gmail.com](mailto:rajlourdu15@gmail.com)
 - 📱 LinkedIn: [Lourdu Radjou](https://www.linkedin.com/in/lourdu-radjou/)
 - 🌐 GitHub: [github.com/LourduRadjou](https://github.com/LourduRadjou)
 

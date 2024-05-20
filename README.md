@@ -19,7 +19,7 @@
 - ✨ Thank you for visiting my profile! Let's embark on a journey of growth together.
 
 ### Contact Me
-- 📧 Email: your.email@example.com
+- 📧 Email:[Lourdu Radjou](rajlourdu15@gmail.com)
 - 📱 LinkedIn: [Lourdu Radjou](https://www.linkedin.com/in/lourdu-radjou/)
 - 🌐 GitHub: [github.com/LourduRadjou](https://github.com/LourduRadjou)
 

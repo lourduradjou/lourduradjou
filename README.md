@@ -65,6 +65,7 @@
   </a>
   <a href="https://www.linkedin.com/in/lourdu-radjou-374092242/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
   </a>
 </div>
 

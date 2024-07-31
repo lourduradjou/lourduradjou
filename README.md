@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Hey there,<br>I hope you are doing well!<br><br>I love developing full stack application<br>And to do experiments with Machine learning algorithms as of now<br>You can see some of my project frontend related stuffs mostly now..<br><br>Soon a lot of MERN stack projects coming..<br><br>Apart from coding I love,<br>Badminton,<br>Horror Movies and stories,<br>Cricket <br>Writing Poems (Romantic sometimes)😍</p>
+<h3 align="left">Hey there,<br>I hope you are doing well!<br><br>I love developing full stack application<br>And to do experiments with Machine learning algorithms as of now<br>You can see some of my project frontend related stuffs mostly now..<br><br>Soon a lot of MERN stack projects coming..<br><br>Apart from coding I love,<br>Badminton,<br>Horror Movies and stories,<br>Cricket <br>Writing Poems (Romantic sometimes)😍</h3>
 
 ###
 

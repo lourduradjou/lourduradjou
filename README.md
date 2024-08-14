@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Lourdu Radjou,<br> I'm a Full Stack Developer<br> I love reading and developing my knowledge<br> over machine learning as of now..may be a switch😉</h2>
+<h2 align="center">Hi 👋! My name is Lourdu Radjou,<br> I'm a Full Stack Developer<br>AI & ML Interested <br> UI/UX Design <br> MERN Stack</h2>
 
 ###
 

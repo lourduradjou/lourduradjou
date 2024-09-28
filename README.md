@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Lourdu Radjou,<br> I'm a Full Stack Developer :)<br>AI & ML Interested ^_^ <br>❤️MERN Stack & Exploring UI/UX</h2>
+<h2 align="center">Hi there 👋!<br> I'm a Full Stack Developer :)<br>AI & ML Interested ^_^ <br>❤️MERN Stack & Exploring UI/UX</h2>
 
 ###
 
@@ -11,15 +11,15 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img src="cat gif.webp"  alt="cat gif"/>
-</div>
+</div> -->
 
 
 
 ###
 
-<p align="center" style="text-size:20px">Hey there,<br>I hope you are doing well!<br><br>I love developing full stack application<br>And to do experiments with Machine learning algorithms as of now<br>You can see some of my project frontend related stuffs mostly now..<br><br>Soon a lot of MERN stack projects coming..<br><br>Apart from coding I love,<br>Badminton,<br>Horror Movies and stories,<br>Cricket <br>Writing Poems (Romantic sometimes)😍</p>
+<!--<p align="center" style="text-size:20px">Hey there,<br>I hope you are doing well!<br><br>I love developing full stack application<br>And to do experiments with Machine learning algorithms as of now<br>You can see some of my project frontend related stuffs mostly now..<br><br>Soon a lot of MERN stack projects coming..<br><br>Apart from coding I love,<br>Badminton,<br>Horror Movies and stories,<br>Cricket <br>Writing Poems (Romantic sometimes)😍</p>-->
 
 ###
 

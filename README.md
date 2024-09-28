@@ -23,7 +23,6 @@
 
 ###
 
-<h2 align="center">Web Development Skills</h2>
 
 ###
 

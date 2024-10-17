@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋!<br> I'm a Full Stack Developer :)<br>AI & ML Interested ^_^ <br>❤️MERN Stack & Exploring UI/UX</h2>
+<h2 align="center">Hi there 👋 I am Lourdu<br> I'm a Full Stack Developer :)<br>Interested in AI ^_^ <br>❤️MERN Stack & Exploring UI/UX</h2>
 
 ###
 

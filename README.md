@@ -8,7 +8,7 @@ I'm a Software Engineer currently in the pre-final year of my Graduation. I'm pa
 - Libraries and Tools: Node, Express, React, Git, Postman
 - UI/UX: TailwindCSS, DaisyUI, semanticUI, materialU, Figma, Canva
 - Databases: MySQL, PostgreSQL, MongoDB
-- ORM: Prisma, Mongoose
+- ORM: Mongoose
 - Misc: Vercel
 <!--
 ## 🚀 Projects

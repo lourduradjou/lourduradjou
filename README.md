@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lourduradjou" alt="lourduradjou" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website (MERN)**
+- 🔭 I’m currently working on **Casanova**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Nothing big enough to say**
 
 - 👯 I’m looking to collaborate on **Machine learning related projects**
 

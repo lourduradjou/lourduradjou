@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lourduradjou" alt="lourduradjou" /></a> </p>
 
-- 🔭 I’m currently working on **Casanova**
+- 🔭 I’m currently working on **SEIFUN.xyz**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Advanced Web optimization principles & ML**
 
-- 👯 I’m looking to collaborate on **Machine learning related projects**
+- 👯 I’m looking to collaborate on **Mern Stack , WEB3, Machine learning related projects**
 
 - 💬 Ask me about **MERN Stack**
 

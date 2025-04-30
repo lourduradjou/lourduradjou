@@ -1,5 +1,12 @@
 <img src="./banner.png" styles />
-<h1 align="left">Hola, My Name is Lourdu Radjou 👋</h1>
+<!-- Thanks to https://github.com/ahaywood , i used some of her readme code -->
+
+# Hola, My Name is Lourdu Radjou 👋
+
+* 🌲 I'm a Lead Maintainer on the [SEIFUN.xyz](https://seifun.xyz) Core Team
+- 🔭 **I’m currently working on:** [Build SEIFUN.xyz](https://seifun.xyz)
+- 💬 **[Ask me about:](https://github.com/ahaywood/luke/discussions)** Being a MERN stack developer 🦄
+- 📫 **How to reach me:** The best way to reach me is through [LinkedIn](https://linkedin.com/in/lourduradjou))
 
 <ul>
   <li>🔭 I’m currently a full stack developer working on <a href="https://seifun.xyz" target="_blank">SEIFUN.xyz</a></li>
@@ -9,11 +16,11 @@
   <li>📫 Reach me at <a href="mailto:rajlourdu15@gmail.com">rajlourdu15@gmail.com</a></li>
 </ul>
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lourduradjou)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@rajlourdu15)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajlourdu15@gmail.com)
-
+## Connect with me
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](mailto:rajlourdu15@gmail.com)
+[<img align="left" alt="twitch" src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=twitch&logoColor=white&color=aa6fff" />](https://medium.com/@@rajlourdu15)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0275b3" />](https://linkedin.com/in/lourduradjou)
+<br>
 
 ---
 

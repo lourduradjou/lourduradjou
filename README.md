@@ -1,3 +1,4 @@
+<img src="./banner.png" styles />
 <h1 align="left">Hola, My Name is Lourdu Radjou 👋</h1>
 
 <ul>

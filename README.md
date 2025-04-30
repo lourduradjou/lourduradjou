@@ -56,5 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourduradjou&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200"/>
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/lourduradjou/lourduradjou/blob/output/github-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

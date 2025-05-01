@@ -5,7 +5,7 @@
 
 * 🌲 I'm a Lead Maintainer on the [SEIFUN.xyz](https://seifun.xyz) Core Team
 - 🔭 **I’m currently working on:** [Build SEIFUN.xyz](https://seifun.xyz)
-- 💬 **[Ask me about:](https://github.com/ahaywood/luke/discussions)** Being a MERN stack developer 🦄
+- 💬 **[Ask me about:](https://github.com/lourduradjou/luke/discussions)** Being a MERN stack developer 🦄
 - 📫 **How to reach me:** The best way to reach me is through [LinkedIn](https://linkedin.com/in/lourduradjou))
 
 <ul>

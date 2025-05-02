@@ -5,16 +5,10 @@
 
 * 🌲 I'm a Lead Maintainer on the [SEIFUN.xyz](https://seifun.xyz) Core Team
 - 🔭 **I’m currently working on:** [Build SEIFUN.xyz](https://seifun.xyz)
+- 🌱 Learning Advanced Web Optimization Principles & ML</li>
+- 👯 Looking to collaborate on MERN Stack & Web3</li>
 - 💬 **[Ask me about:](https://github.com/lourduradjou/luke/discussions)** Being a MERN stack developer 🦄
 - 📫 **How to reach me:** The best way to reach me is through [LinkedIn](https://linkedin.com/in/lourduradjou))
-
-<ul>
-  <li>🔭 I’m currently a full stack developer working on <a href="https://seifun.xyz" target="_blank">SEIFUN.xyz</a></li>
-  <li>🌱 Learning Advanced Web Optimization Principles & ML</li>
-  <li>👯 Looking to collaborate on MERN Stack & Web3</li>
-  <li>💬 Ask me about anything MERN</li>
-  <li>📫 Reach me at <a href="mailto:rajlourdu15@gmail.com">rajlourdu15@gmail.com</a></li>
-</ul>
 
 ## Connect with me
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](mailto:rajlourdu15@gmail.com)

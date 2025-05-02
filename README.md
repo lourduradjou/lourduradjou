@@ -3,7 +3,7 @@
 
 # Hola, My Name is Lourdu Radjou 👋
 
-* 🌲 I'm a Lead Maintainer on the [SEIFUN.xyz](https://seifun.xyz) Core Team
+- 🌲 I'm a Lead Maintainer on the [SEIFUN.xyz](https://seifun.xyz) Core Team
 - 🔭 **I’m currently working on:** [Build SEIFUN.xyz](https://seifun.xyz)
 - 🌱 Learning Advanced Web Optimization Principles & ML</li>
 - 👯 Looking to collaborate on MERN Stack & Web3</li>

@@ -45,10 +45,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lourduradjou&theme=date_night&hide_border=false&include_all_commits=true&count_private=true" height="200" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourduradjou&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200"/>
-</div>
+
 
 ![snake gif](https://github.com/lourduradjou/lourduradjou/blob/output/github-snake.svg)
 

@@ -1,4 +1,4 @@
-<img src="./banner.png" styles />
+<!-- <img src="./banner.png" styles /> -->
 <!-- Thanks to https://github.com/ahaywood , i used some of her readme code -->
 
 # Hola, My Name is Lourdu Radjou 👋

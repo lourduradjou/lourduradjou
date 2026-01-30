@@ -1,7 +1,8 @@
 <!-- <img src="./banner.png" styles /> -->
 <!-- Thanks to https://github.com/ahaywood , i used some of her readme code -->
 
-# Hola, My Name is Lourdu Radjou 👋
+# Hallo, Guten Tag!!
+## My Name is Lourdu Radjou 👋
 
 - ✨I am Full stack developer
 - 🌱 Learning Advanced Web Optimization Principles & ML</li>

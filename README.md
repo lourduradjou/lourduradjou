@@ -3,7 +3,7 @@
 ### I'm Lourdu Radjou (Lou)
 
 ## 💫 About Me:
-🔭 **I’m currently working on:** improving and contributing to **Wagtail CMS**<br><br>👯 **I’m looking to collaborate on:** open-source software (OSS) projects and meaningful dev tools<br><br>🌱 **I’m currently learning:** Django and deeper Python backend development<br><br>💬 **Ask me about:** the MERN stack (MongoDB, Express, React, Node)<br><br>⚡ **Fun fact:** I’m an alien and I will go back mars soon 👽<br>
+🔭 **I’m currently working on:** improving and contributing to **Wagtail CMS** and **Valhalla**<br><br>👯 **I’m looking to collaborate on:** open-source software (OSS) projects and meaningful dev tools<br><br>🌱 **I’m currently learning:** Django and deeper Python backend development<br><br>💬 **Ask me about:** the MERN stack (MongoDB, Express, React, Node)<br><br>⚡ **Fun fact:** I’m an alien and I will go back mars soon 👽<br>
 
 
 ## 🌐 Socials:

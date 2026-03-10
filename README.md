@@ -1,6 +1,6 @@
 ### Hallo, Guten Tag!!
 
-### I'm Lourdu Radjou (Lou)
+### I'm Lourdu Radjou (Lou), a final year Computer science bachelors student studying at PTU Puducherry, India.
 
 ## 💫 About Me:
 🔭 **I’m currently working on:** improving and contributing to **Wagtail CMS** and **Valhalla**<br><br>👯 **I’m looking to collaborate on:** open-source software (OSS) projects and meaningful dev tools<br><br>🌱 **I’m currently learning:** Django and deeper Python backend development<br><br>💬 **Ask me about:** the MERN stack (MongoDB, Express, React, Node)<br><br>⚡ **Fun fact:** I’m an alien and I will go back mars soon 👽<br>

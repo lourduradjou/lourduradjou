@@ -1,4 +1,4 @@
-### Hallo, Guten Tag!!
+### Hello, hope your are fine! thank you for visiting my profile 👋
 
 I'm Lourdu Radjou (Lou), a final year Computer science bachelors student studying at PTU Puducherry, India.
 

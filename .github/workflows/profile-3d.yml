@@ -2,8 +2,8 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # runs daily at midnight IST
-  workflow_dispatch:        # lets you trigger it manually too
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,10 +15,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-    - name: Commit & Push
-      run: |
-        git config user.email "action@github.com"
-        git config user.name "GitHub Action"
-        git add -A .
-        git commit -m "Generate 3D contrib graph" || exit 0
-        git push
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "Generate 3D contrib graph" || exit 0
+          git push

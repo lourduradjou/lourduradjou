@@ -2,7 +2,8 @@
 
 I'm Lourdu Radjou (Lou), a final year Computer science bachelors student studying at PTU Puducherry, India.
 
-- I’m currently working on improving and contributing to **Wagtail CMS**
+- I’m currently working on improving and contributing to **Wagtail CMS** and **PUDUCAN**
+- Exploring ML & AI to add in my project **PUDUCAN** as per org needs.
 - I’m looking to collaborate on open-source software (OSS) projects and meaningful dev tools
 - I’m currently learning Django and deeper Python backend development and my favourite books
 - Contact me: rajlourdu15@gmail.com

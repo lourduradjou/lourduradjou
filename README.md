@@ -4,6 +4,7 @@ I'm Lourdu Radjou (Lou), a final year Computer science bachelors student studyin
 
 - I’m currently working on improving and contributing to **Wagtail CMS** and **PUDUCAN**
 - Exploring ML & AI to add in my project **PUDUCAN** as per org needs.
+- Looking on AI Agents and how to use them to speed up my development process with safety and accountability in mind.
 - I’m looking to collaborate on open-source software (OSS) projects and meaningful dev tools
 - I’m currently learning Django and deeper Python backend development and my favourite books
 - Contact me: rajlourdu15@gmail.com
